@@ -12,6 +12,7 @@ namespace ArraysAndLists
             // Create an int Array and populate numbers 1-10
             int[] array1 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
+
             /* Create two Lists of type int.
              * Name one List "evens"
              * Name the other List "odds"
